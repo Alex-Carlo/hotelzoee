@@ -212,3 +212,17 @@ width: 70%;
 position: absolute;
 top:20%;
 }
+.video-youtube{
+position: relative;
+
+padding-bottom: 56.25%;
+}
+.video-youtube iframe{
+	position:absolute;
+	width: 50%;
+	height: 50%;
+	top:50%;
+        float: center;
+        left: 25%;
+        
+}
